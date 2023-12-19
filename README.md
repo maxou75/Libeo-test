@@ -1,17 +1,14 @@
 # Why a Take-Home Test
 
-We took this test from another company (Inato) to prove our candidates this is not work we could use in our codebase.
+Welcome to the LIBEO recruitment process! We are delighted to have you on board, and we look forward to spending meaningful and engaging time together during the upcoming technical interviews. Your participation is highly valued, and we are eager to get to know you better throughout this process. If you have any questions or concerns, feel free to reach out. 
 
-We believe our tech team must have a strong common culture.
+As a starting point, we'd like you to complete this initial technical exercise. We firmly believe that our tech team should share a robust coding culture, and to evaluate this, we propose assessing your practices through a straightforward coding exercise. 
 
-In order to asses we work the same way we need to discuss the practice of the candidate.
+This exercise typically leads to an interview. Unless the proficiency level falls short of our expectations, we will provide you with a detailed response outlining any aspects that we consider not acceptable for our team.
 
-In order to discuss the practice of the candidate, we need code, examples. A pull request is the best piece of work we found.
+Last but not least, we strongly believe than something done is sometimes better than perfect. Thereforefore, don't spend too much time on it. It should take around 2-3h preparation maximum for any kind of level (rookie to senior).
 
-This exercise leads most of the time to an interview. Unless the level is not what we expected, we will send you a detailled response about what we judged is not acceptable in our team.
-
-We hope the candidate will take pleasure doing this exercise, from the rookie to the senior.
-We believe this exercise is a kind of [kata](http://codekata.com/), a simple problem that allows someone to explore deep engineering concepts.
+Let's embark on this journey together! See you soon!
 
 # Inato Take-Home Test Specification
 
